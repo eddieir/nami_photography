@@ -1,0 +1,181 @@
+.navMenuBtn {
+  display: none;
+}
+
+.menuBtn {
+  display: block;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  z-index: 10;
+  background-color: transparent;
+  border-radius: 50%;
+  border-width: 0;
+  outline: transparent;
+}
+
+.menuBtn span,
+.menuBtn span::before,
+.menuBtn span::after {
+  position: absolute;
+  top: 50%;
+  margin-top: -1px;
+  margin-left: -10px;
+  width: 35px;
+  background-color: #000;
+}
+
+.menuBtn span::before,
+.menuBtn span::after {
+  content: '';
+  display: block;
+  transition: 0.4s;
+  height: 4px;
+}
+
+.menuBtn span::before {
+  transform: translateY(-5px);
+}
+
+.menuBtn span::after {
+  transform: translateY(5px);
+}
+
+.menuBtn_active span {
+  height: 0;
+}
+
+.menuBtn_active span:before {
+  transform: rotate(45deg);
+  transition: all 0.5s ease;
+  background-color: #fff;
+}
+
+.menuBtn_active span:after {
+  transform: rotate(-45deg);
+  transition: all 0.5s ease;
+  background-color: #fff;
+}
+
+
+@media screen and (max-width: 992px) {
+
+  .navMenuBtn {
+    display: flex;
+  }
+
+  .leftMenuSection_closed,
+  /*.listItems,*/
+  .rightMenuSection_closed {
+    /*position: absolute;*/
+    display: none;
+    /*opacity: 0;*/
+    /*visibility: hidden;*/
+    /*animation-duration: 1s;*/
+    /*animation: hideRightSection 1s;*/
+    /*transition: all 0.3s ease-in-out;*/
+  }
+
+  .leftMenuSection_active {
+    display: flex;
+    position: fixed;
+    width: 50%;
+    height: 100vh;
+    background:rgba(0,0,0,.9);
+    top: 0;
+    left: 0;
+    margin: auto;
+    /*overflow: auto;*/
+    animation-duration: 1s;
+    animation-name: showLeftSection;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .rightMenuSection_active {
+    display: flex;
+    position: fixed;
+    width: 50%;
+    height: 100vh;
+    /*background: rgba(255,108,0,.9);*/
+    background: rgba(95,35,188,.9);
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    animation-duration: 1s;
+    animation-name: showRightSection;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .leftMenuSection_active::-webkit-scrollbar,
+  .rightMenuSection_active::-webkit-scrollbar {
+    display: none;
+  }
+
+  @keyframes showLeftSection {
+    from {
+      /* opacity: 0; */
+      top: -100%;
+    }
+    to {
+      /* opacity: 0.9; */
+      top: 0;
+    }
+  }
+  @keyframes showRightSection {
+    from {
+      /* opacity: 0; */
+      bottom: -100%;
+    }
+    to {
+      /* opacity: 0.9; */
+      bottom: 0;
+    }
+  }
+
+
+  @keyframes hideLeftSection {
+    from {
+      /* opacity: 0.9; */
+      top: 0;
+    }
+    to {
+      /* opacity: 0; */
+      top: -100%;
+    }
+  }
+  @keyframes hideRightSection {
+    from {
+      /* opacity: 0; */
+      bottom: -100%;
+    }
+    to {
+      /* opacity: 0.9; */
+      bottom: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .leftMenuSection_active,
+  .rightMenuSection_active {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .leftMenuSection_closed,
+  .leftMenuSection_active,
+  .rightMenuSection_active,
+  .rightMenuSection_closed
+  {
+    display: none;
+    /*opacity: 0;*/
+    /*position: absolute;*/
+    /*visibility: hidden;*/
+    /*transition: all 0.3s ease-in-out;*/
+  }
+}
