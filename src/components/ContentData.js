@@ -73,7 +73,7 @@ import image2_40 from "../img/thumbnails/product/image_40.jpg";
 import image2_41 from "../img/thumbnails/product/image_41.jpg";
 import image2_42 from "../img/thumbnails/product/image_42.jpg";
 /*portrait thumbnails*/ 
-import image3_1 from "../img/thumbnails/portrait/image_1.jpg";
+/*import image3_1 from "../img/thumbnails/portrait/image_1.jpg";
 import image3_2 from "../img/thumbnails/portrait/image_2.jpg";
 import image3_3 from "../img/thumbnails/portrait/image_3.jpg";
 import image3_4 from "../img/thumbnails/portrait/image_4.jpg";
@@ -101,7 +101,7 @@ import image3_25 from "../img/thumbnails/portrait/image_25.jpg";
 import image3_26 from "../img/thumbnails/portrait/image_26.jpg";
 import image3_27 from "../img/thumbnails/portrait/image_27.jpg";
 import image3_28 from "../img/thumbnails/portrait/image_28.jpg";
-import image3_29 from "../img/thumbnails/portrait/image_29.jpg";
+import image3_29 from "../img/thumbnails/portrait/image_29.jpg";*/
 import image_30 from '../img/thumbnails/portrait/image_30.jpg';
 import image_31 from '../img/thumbnails/portrait/image_31.jpg';
 import image_32 from '../img/thumbnails/portrait/image_32.jpg';
@@ -116,6 +116,9 @@ import image_40 from '../img/thumbnails/portrait/image_40.jpg';
 import image_41 from '../img/thumbnails/portrait/image_41.jpg';
 import image_42 from '../img/thumbnails/portrait/image_42.jpg';
 import image_43 from '../img/thumbnails/portrait/image_43.jpg';
+import image_44 from '../img/thumbnails/portrait/image_44.jpg';
+import image_45 from '../img/thumbnails/portrait/image_45.jpg';
+
 ///**** model thumbnails*/
 import image4_1 from "../img/thumbnails/models/image_1.jpg";
 import image4_2 from "../img/thumbnails/models/image_2.jpg";
@@ -223,7 +226,7 @@ import productImage32 from "../img/fullsize/product/image_32.jpg";
 import productImage33 from "../img/fullsize/product/image_33.jpg";
 
 import portraitImage1 from "../img/fullsize/portrait/image_1.jpg";
-import portraitImage2 from "../img/fullsize/portrait/image_2.jpg";
+/*import portraitImage2 from "../img/fullsize/portrait/image_2.jpg";
 import portraitImage3 from "../img/fullsize/portrait/image_3.jpg";
 import portraitImage4 from "../img/fullsize/portrait/image_4.jpg";
 import portraitImage5 from "../img/fullsize/portrait/image_5.jpg";
@@ -250,7 +253,23 @@ import portraitImage25 from "../img/fullsize/portrait/image_25.jpg";
 import portraitImage26 from "../img/fullsize/portrait/image_26.jpg";
 import portraitImage27 from "../img/fullsize/portrait/image_27.jpg";
 import portraitImage28 from "../img/fullsize/portrait/image_28.jpg";
-import portraitImage29 from "../img/fullsize/portrait/image_29.jpg";
+import portraitImage29 from "../img/fullsize/portrait/image_29.jpg";*/
+import portraitImage30 from "../img/fullsize/portrait/image_30.jpg";
+import portraitImage31 from "../img/fullsize/portrait/image_31.jpg";
+import portraitImage32 from "../img/fullsize/portrait/image_32.jpg";
+import portraitImage33 from "../img/fullsize/portrait/image_33.jpg";
+import portraitImage34 from "../img/fullsize/portrait/image_34.jpg";
+import portraitImage35 from "../img/fullsize/portrait/image_35.jpg";
+import portraitImage36 from "../img/fullsize/portrait/image_36.jpg";
+import portraitImage37 from "../img/fullsize/portrait/image_37.jpg";
+import portraitImage38 from "../img/fullsize/portrait/image_38.jpg";
+import portraitImage39 from "../img/fullsize/portrait/image_39.jpg";
+import portraitImage40 from "../img/fullsize/portrait/image_40.jpg";
+import portraitImage41 from "../img/fullsize/portrait/image_41.jpg";
+import portraitImage42 from "../img/fullsize/portrait/image_42.jpg";
+import portraitImage43 from "../img/fullsize/portrait/image_43.jpg";
+import portraitImage44 from "../img/fullsize/portrait/image_44.jpg";
+import portraitImage45 from "../img/fullsize/portrait/image_45.jpg";
 
 import modelsImage1 from "../img/fullsize/models/image_1.jpg";
 import modelsImage2 from "../img/fullsize/models/image_2.jpg";
@@ -319,7 +338,7 @@ export const ContentData = {
       'index': 0,
       'picture': image1,
       'description': '1',
-      'path': '/Romance/1'
+      'path': '/beauty/1'
     },
     {
       'index': 1,
@@ -521,7 +540,7 @@ export const ContentData = {
    
   ],
   'portraitsForMainPage': [
-    {
+    /*{
       'index': 0,
       'picture': image3_1,
       'description': '1',
@@ -580,7 +599,7 @@ export const ContentData = {
       'picture': image3_10,
       'description': '10',
       'path': '/portraits/10'
-    }
+    }*/
     
   ],
   'modelsForMainPage': [
@@ -652,7 +671,7 @@ export const ContentData = {
       'index': 0,
       'picture': image1,
       'description': '1',
-      'path': '/Romance/1'
+      'path': '/beauty/1'
     },
     {
       'index': 1,
@@ -952,7 +971,7 @@ export const ContentData = {
     
   ],
   'portraitsForGridSection': [
-    {
+    /*{
       'index': 0,
       'picture': image3_1,
       'description': '1',
@@ -1124,7 +1143,7 @@ export const ContentData = {
       'picture': image3_29,
       'description': '29',
       'path': '/portraits/29'
-    },
+    },*/
     {
       'index': 29,
       'picture': image_30,
@@ -1210,6 +1229,18 @@ export const ContentData = {
       'picture':image_43,
       'description':'43',
       'path':'/portraits/43'
+    },
+    {
+      'index': 44,
+      'picture':image_44,
+      'description':'44',
+      'path':'/portraits/44'
+    },
+    {
+      'index': 45,
+      'picture':image_45,
+      'description':'45',
+      'path':'/portraits/45'
     }
 
 
@@ -1576,7 +1607,7 @@ export const ContentData = {
     {
       'index': 0,
       'picture': beautyImage1,
-      'path': '/Romance/1',
+      'path': '/beauty/1',
       'pathId': '1'
     },
     {
@@ -1830,6 +1861,7 @@ export const ContentData = {
       'path': '/portraits/1',
       'pathId': '1'
     },
+    /*
     {
       'index': 1,
       'picture': portraitImage2,
@@ -1998,6 +2030,109 @@ export const ContentData = {
       'description': '29',
       'path': '/portraits/29'
     },
+    */
+    {
+      'index': 29,
+      'picture': portraitImage30,
+      'description': '30',
+      'path': '/portraits/30'
+    },
+    
+    {
+      'index': 30,
+      'picture': portraitImage31,
+      'description': '31',
+      'path': '/portraits/31'
+    },
+    {
+      'index': 31,
+      'picture': portraitImage32,
+      'description': '32',
+      'path': '/portraits/32'
+    },
+    {
+      'index': 32,
+      'picture': portraitImage33,
+      'description': '33',
+      'path': '/portraits/33'
+    },
+    {
+      'index': 33,
+      'picture': portraitImage34,
+      'description': '34',
+      'path': '/portraits/34'
+    },
+    {
+      'index': 34,
+      'picture': portraitImage35,
+      'description': '35',
+      'path': '/portraits/35'
+    },
+    {
+      'index': 35,
+      'picture': portraitImage36,
+      'description': '36',
+      'path': '/portraits/36'
+    },
+    {
+      'index': 36,
+      'picture': portraitImage37,
+      'description': '37',
+      'path': '/portraits/37'
+    },
+    {
+      'index': 37,
+      'picture': portraitImage38,
+      'description': '38',
+      'path': '/portraits/38'
+    },
+    {
+      'index': 38,
+      'picture': portraitImage39,
+      'description': '39',
+      'path': '/portraits/39'
+    },
+    {
+      'index': 39,
+      'picture': portraitImage40,
+      'description': '40',
+      'path': '/portraits/40'
+    },
+    {
+      'index': 40,
+      'picture': portraitImage41,
+      'description': '41',
+      'path': '/portraits/41'
+    },
+    {
+      'index': 41,
+      'picture': portraitImage42,
+      'description': '42',
+      'path': '/portraits/42'
+    },
+    {
+      'index': 42,
+      'picture': portraitImage43,
+      'description': '43',
+      'path': '/portraits/43'
+    },
+    {
+      'index': 43,
+      'picture': portraitImage44,
+      'description': '44',
+      'path': '/portraits/44'
+    },
+    {
+      'index': 44,
+      'picture': portraitImage45,
+      'description': '45',
+      'path': '/portraits/45'
+    },
+
+
+
+
+
   ],
   'modelsFullSize': [
     {
