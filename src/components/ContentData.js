@@ -479,127 +479,127 @@ export const ContentData = {
   'productForMainPage': [
     {
       'index': 0,
-      'picture': image2_1,
+      'picture': image2_34,
       'description': '1',
       'path': '/product-photography/1'
     },
     {
       'index': 1,
-      'picture': image2_2,
+      'picture': image2_35,
       'description': '2',
       'path': '/product-photography/2'
     },
     {
       'index': 2,
-      'picture': image2_3,
+      'picture': image2_35,
       'description': '3',
       'path': '/product-photography/3'
     },
     {
       'index': 3,
-      'picture': image2_4,
+      'picture': image2_36,
       'description': '4',
       'path': '/product-photography/4'
     },
     {
       'index': 4,
-      'picture': image2_5,
+      'picture': image2_37,
       'description': '5',
       'path': '/product-photography/5'
     },
     {
       'index': 5,
-      'picture': image2_6,
+      'picture': image2_38,
       'description': '6',
       'path': '/product-photography/6'
     },
     {
       'index': 6,
-      'picture': image2_7,
+      'picture': image2_39,
       'description': '7',
       'path': '/product-photography/7'
     },
     {
       'index': 7,
-      'picture': image2_8,
+      'picture': image2_40,
       'description': '8',
       'path': '/product-photography/8'
     },
     {
       'index': 8,
-      'picture': image2_9,
+      'picture': image2_41,
       'description': '9',
       'path': '/product-photography/9'
     },
     {
       'index': 9,
-      'picture': image2_10,
+      'picture': image2_42,
       'description': '10',
       'path': '/product-photography/10'
     }
    
   ],
   'portraitsForMainPage': [
-    /*{
+    {
       'index': 0,
-      'picture': image3_1,
+      'picture': image_30,
       'description': '1',
-      'path': '/portraits/1'
+      'path': '/portraits/30'
     },
     {
       'index': 1,
-      'picture': image3_2,
+      'picture': image_31,
       'description': '2',
-      'path': '/portraits/2'
+      'path': '/portraits/31'
     },
     {
       'index': 2,
-      'picture': image3_3,
+      'picture': image_32,
       'description': '3',
-      'path': '/portraits/3'
+      'path': '/portraits/32'
     },
     {
       'index': 3,
-      'picture': image3_4,
+      'picture': image_33,
       'description': '4',
-      'path': '/portraits/4'
+      'path': '/portraits/33'
     },
     {
       'index': 4,
-      'picture': image3_5,
+      'picture': image_34,
       'description': '5',
-      'path': '/portraits/5'
+      'path': '/portraits/34'
     },
     {
       'index': 5,
-      'picture': image3_6,
+      'picture': image_35,
       'description': '6',
-      'path': '/portraits/6'
+      'path': '/portraits/35'
     },
     {
       'index': 6,
-      'picture': image3_7,
+      'picture': image_36,
       'description': '7',
-      'path': '/portraits/7'
+      'path': '/portraits/36'
     },
     {
       'index': 7,
-      'picture': image3_8,
+      'picture': image_37,
       'description': '8',
-      'path': '/portraits/8'
+      'path': '/portraits/37'
     },
     {
       'index': 8,
-      'picture': image3_9,
+      'picture': image_38,
       'description': '9',
-      'path': '/portraits/9'
+      'path': '/portraits/38'
     },
     {
       'index': 9,
-      'picture': image3_10,
+      'picture': image_39,
       'description': '10',
-      'path': '/portraits/10'
-    }*/
+      'path': '/portraits/39'
+    }
     
   ],
   'modelsForMainPage': [
