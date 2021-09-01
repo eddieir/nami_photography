@@ -94,9 +94,7 @@ const ImagesFlow = props => {
         <Link className={s.overlay} to={images[id].path} >
           <ImageDescription className={s.overlayDescription}>
             <Text>
-              <h2>{images[id].description}</h2>
-              <Separator/>
-              <p>view</p>
+              
             </Text>
           </ImageDescription>
           <LazyLoad>
