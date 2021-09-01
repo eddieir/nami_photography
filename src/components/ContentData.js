@@ -9,6 +9,7 @@ import image6 from "../img/thumbnails/beauty/image_6.jpg";
 import image7 from "../img/thumbnails/beauty/image_7.jpg";
 //import image8 from "../img/thumbnails/beauty/image_8.jpg";
 import image9 from "../img/thumbnails/beauty/image_9.jpg";
+
 //import image10 from "../img/thumbnails/beauty/image_10.jpg";
 //import image11 from "../img/thumbnails/beauty/image_11.jpg";
 import image12 from "../img/thumbnails/beauty/image_12.jpg";
@@ -190,8 +191,10 @@ import beautyImage5 from "../img/fullsize/beauty/image_5.jpg";
 import beautyImage6 from "../img/fullsize/beauty/image_6.jpg";
 import beautyImage7 from "../img/fullsize/beauty/image_7.jpg";
 import beautyImage8 from "../img/fullsize/beauty/image_8.jpg";
-import beautyImage9 from "../img/fullsize/beauty/image_9.jpg";
-
+import beautyImage12 from "../img/fullsize/beauty/image_12.jpg";
+import beautyImage13 from "../img/fullsize/beauty/image_13.jpg";
+import beautyImage14 from "../img/fullsize/beauty/image_14.jpg";
+import beautyImage15 from "../img/fullsize/beauty/image_15.jpg";
 
 import productImage1 from "../img/fullsize/product/image_1.jpg";
 import productImage2 from "../img/fullsize/product/image_2.jpg";
@@ -227,6 +230,14 @@ import productImage31 from "../img/fullsize/product/image_31.jpg";
 import productImage32 from "../img/fullsize/product/image_32.jpg";
 import productImage33 from "../img/fullsize/product/image_33.jpg";
 import productImage34 from "../img/fullsize/product/image_34.jpg";
+import productImage35 from "../img/fullsize/product/image_35.jpg";
+import productImage36 from "../img/fullsize/product/image_36.jpg";
+import productImage37 from "../img/fullsize/product/image_37.jpg";
+import productImage38 from "../img/fullsize/product/image_38.jpg";
+import productImage39 from "../img/fullsize/product/image_39.jpg";
+import productImage40 from "../img/fullsize/product/image_40.jpg";
+import productImage41 from "../img/fullsize/product/image_41.jpg";
+import productImage42 from "../img/fullsize/product/image_42.jpg";
 
 import portraitImage1 from "../img/fullsize/portrait/image_1.jpg";
 /*import portraitImage2 from "../img/fullsize/portrait/image_2.jpg";
@@ -274,7 +285,7 @@ import portraitImage43 from "../img/fullsize/portrait/image_43.jpg";
 import portraitImage44 from "../img/fullsize/portrait/image_44.jpg";
 import portraitImage45 from "../img/fullsize/portrait/image_45.jpg";
 
-//import modelsImage1 from "../img/fullsize/models/image_1.jpg";
+import modelsImage1 from "../img/fullsize/models/image_1.jpg";
 import modelsImage2 from "../img/fullsize/models/image_2.jpg";
 import modelsImage3 from "../img/fullsize/models/image_3.jpg";
 import modelsImage4 from "../img/fullsize/models/image_4.jpg";
@@ -334,6 +345,8 @@ import modelsImage57 from "../img/fullsize/models/image_57.jpg";
 import modelsImage58 from "../img/fullsize/models/image_58.jpg";
 import modelsImage59 from "../img/fullsize/models/image_59.jpg";
 //import ChildImage1 from '../img/fullsize/models/child1.jpg';
+//import Image12 from "../img/fullsize/beauty/image_12.jpg";
+
 
 export const ContentData = {
 // crop size for main page
@@ -547,61 +560,61 @@ export const ContentData = {
       'index': 0,
       'picture': image4_1,
       'description': '1',
-      'path': '/models-tests/59'
+      'path': '/Child_Photography/1'
     },
     {
       'index': 1,
       'picture': image4_2,
       'description': '2',
-      'path': '/models-tests/2'
+      'path': '/Child_Photography/2'
     },
     {
       'index': 2,
       'picture': image4_3,
       'description': '3',
-      'path': '/models-tests/3'
+      'path': '/Child_Photography/3'
     },
     {
       'index': 3,
       'picture': image4_4,
       'description': '4',
-      'path': '/models-tests/4'
+      'path': '/Child_Photography/4'
     },
     {
       'index': 4,
       'picture': image4_5,
       'description': '5',
-      'path': '/models-tests/5'
+      'path': '/Child_Photography/5'
     },
     {
       'index': 5,
       'picture': image4_6,
       'description': '6',
-      'path': '/models-tests/6'
+      'path': '/Child_Photography/6'
     },
     {
       'index': 6,
       'picture': image4_7,
       'description': '7',
-      'path': '/models-tests/7'
+      'path': '/Child_Photography/7'
     },
     {
       'index': 7,
       'picture': image4_8,
       'description': '8',
-      'path': '/models-tests/8'
+      'path': '/Child_Photography/8'
     },
     {
       'index': 8,
       'picture': image4_9,
       'description': '9',
-      'path': '/models-tests/9'
+      'path': '/Child_Photography/9'
     },
     {
       'index': 9,
       'picture': image4_10,
       'description': '10',
-      'path': '/models-tests/10'
+      'path': '/Child_Photography/10'
     }
   ],
 
@@ -611,76 +624,76 @@ export const ContentData = {
       'index': 0,
       'picture': image1,
       'description': '1',
-      'path': '/beauty/1'
+      'path': '/Conceptual_Art/1'
     },
     {
       'index': 1,
       'picture': image2,
       'description': '2',
-      'path': '/beauty/2'
+      'path': '/Conceptual_Art/2'
     },
     {
       'index': 2,
       'picture': image3,
       'description': '3',
-      'path': '/beauty/3'
+      'path': '/Conceptual_Art/3'
     },
     {
       'index': 3,
       'picture': image4,
       'description': '4',
-      'path': '/beauty/4'
+      'path': '/Conceptual_Art/4'
     },
     {
       'index': 4,
       'picture': image5,
       'description': '5',
-      'path': '/beauty/5'
+      'path': '/Conceptual_Art/5'
     },
     {
       'index': 5,
       'picture': image6,
       'description': '6',
-      'path': '/beauty/6'
+      'path': '/Conceptual_Art/6'
     },
     {
       'index': 6,
       'picture': image7,
       'description': '7',
-      'path': '/beauty/7'
+      'path': '/Conceptual_Art/7'
     },
     
     {
       'index': 7,
       'picture': image9,
       'description': '8',
-      'path': '/beauty/8'
+      'path': '/Conceptual_Art/8'
+    },
+    
+    {
+      'index': 8,
+      'picture': image12,
+      'description': '9',
+      'path': '/Conceptual_Art/9'
+    },
+    {
+      'index': 9,
+      'picture': image13,
+      'description': '10',
+      'path': '/Conceptual_Art/10'
+    },
+    {
+      'index': 10,
+      'picture': image14,
+      'description': '11',
+      'path': '/Conceptual_Art/11'
     },
     
     {
       'index': 11,
-      'picture': image12,
-      'description': '12',
-      'path': '/beauty/12'
-    },
-    {
-      'index': 12,
-      'picture': image13,
-      'description': '13',
-      'path': '/beauty/13'
-    },
-    {
-      'index': 13,
-      'picture': image14,
-      'description': '14',
-      'path': '/beauty/14'
-    },
-    
-    {
-      'index': 18,
       'picture': image18,
-      'description': '18',
-      'path': '/beauty/18'
+      'description': '12',
+      'path': '/Conceptual_Art/12'
     }, 
   ],
   'productForGridSection': [
@@ -886,19 +899,19 @@ export const ContentData = {
       'index': 33,
       'picture': image2_34,
       'description': '34',
-      'path': '/product-photography/34'
+      'path': '/Nature/34'
     },
     {
       'index': 34,
       'picture': image2_35,
       'description': '35',
-      'path': '/product-photography/35'
+      'path': '/Nature/35'
     },
     {
       'index': 35,
       'picture': image2_36,
       'description': '36',
-      'path': '/product-photography/36'
+      'path': '/Nature/36'
     },
     {
       'index': 36,
@@ -1221,103 +1234,103 @@ export const ContentData = {
       'index': 0,
       'picture': image4_1,
       'description': '01',
-      'path': '/models-tests/59'
+      'path': '/Child_Photography/1'
     },
     {
       'index': 1,
       'picture': image4_2,
       'description': '02',
-      'path': '/models-tests/2'
+      'path': '/Child_Photography/2'
     },
     {
       'index': 2,
       'picture': image4_3,
       'description': '03',
-      'path': '/models-tests/3'
+      'path': '/Child_Photography/3'
     },
     {
       'index': 3,
       'picture': image4_4,
       'description': '04',
-      'path': '/models-tests/4'
+      'path': '/Child_Photography/4'
     },
     {
       'index': 4,
       'picture': image4_5,
       'description': '05',
-      'path': '/models-tests/5'
+      'path': '/Child_Photography/5'
     },
     {
       'index': 5,
       'picture': image4_6,
       'description': '06',
-      'path': '/models-tests/6'
+      'path': '/Child_Photography/6'
     },
     {
       'index': 6,
       'picture': image4_7,
       'description': '07',
-      'path': '/models-tests/7'
+      'path': '/Child_Photography/7'
     },
     {
       'index': 7,
       'picture': image4_8,
       'description': '08',
-      'path': '/models-tests/8'
+      'path': '/Child_Photography/8'
     },
     {
       'index': 8,
       'picture': image4_9,
       'description': '09',
-      'path': '/models-tests/9'
+      'path': '/Child_Photography/9'
     },
     {
       'index': 9,
       'picture': image4_10,
       'description': '10',
-      'path': '/models-tests/10'
+      'path': '/Child_Photography/10'
     },
     {
       'index': 10,
       'picture': image4_11,
       'description': '11',
-      'path': '/models-tests/11'
+      'path': '/Child_Photography/11'
     },
     {
       'index': 11,
       'picture': image4_12,
       'description': '12',
-      'path': '/models-tests/12'
+      'path': '/Child_Photography/12'
     },
     {
       'index': 12,
       'picture': image4_13,
       'description': '13',
-      'path': '/models-tests/13'
+      'path': '/Child_Photography/13'
     },
     {
       'index': 13,
       'picture': image4_14,
       'description': '14',
-      'path': '/models-tests/14'
+      'path': '/Child_Photography/14'
     },
     {
       'index': 14,
       'picture': image4_15,
       'description': '15',
-      'path': '/models-tests/15'
+      'path': '/Child_Photography/15'
     },
     {
       'index': 15,
       'picture': image4_16,
       'description': '16',
-      'path': '/models-tests/16'
+      'path': '/Child_Photography/16'
     },
     {
       'index': 16,
       'picture': image4_17,
       'description': '17',
-      'path': '/models-tests/17'
+      'path': '/Child_Photography/17'
     },
     /*{
       'index': 17,
@@ -1578,57 +1591,77 @@ export const ContentData = {
     {
       'index': 0,
       'picture': beautyImage1,
-      'path': '/beauty/1',
+      'path': '/Conceptual_Art/1',
       'pathId': '1'
     },
     {
       'index': 1,
       'picture': beautyImage2,
-      'path': '/beauty/2',
+      'path': '/Conceptual_Art/2',
       'pathId': '2'
     },
     {
       'index': 2,
       'picture': beautyImage3,
-      'path': '/beauty/3',
+      'path': '/Conceptual_Art/3',
       'pathId': '3'
     },
     {
       'index': 3,
       'picture': beautyImage4,
-      'path': '/beauty/4',
+      'path': '/Conceptual_Art/4',
       'pathId': '4'
     },
     {
       'index': 4,
       'picture': beautyImage5,
-      'path': '/beauty/5',
+      'path': '/Conceptual_Art/5',
       'pathId': '5'
     },
     {
       'index': 5,
       'picture': beautyImage6,
-      'path': '/beauty/6',
+      'path': '/Conceptual_Art/6',
       'pathId': '6'
     },
     {
       'index': 6,
       'picture': beautyImage7,
-      'path': '/beauty/7',
+      'path': '/Conceptual_Art/7',
       'pathId': '7'
     },
     {
       'index': 7,
       'picture': beautyImage8,
-      'path': '/beauty/8',
+      'path': '/Conceptual_Art/8',
       'pathId': '8'
     },
     {
       'index': 8,
-      'picture': beautyImage9,
-      'path': '/beauty/9',
-      'pathId': '8'
+      'picture': beautyImage12,
+      'path': '/Conceptual_Art/9',
+      'pathId': '9'
     },
+    {
+      'index': 9,
+      'picture': beautyImage13,
+      'path': '/Conceptual_Art/10',
+      'pathId': '10'
+    },
+    {
+      'index': 10,
+      'picture': beautyImage14,
+      'path': '/Conceptual_Art/11',
+      'pathId': '11'
+    },
+    {
+      'index': 11,
+      'picture': beautyImage15,
+      'path': '/Conceptual_Art/12',
+      'pathId': '12'
+    },
+
+
 
   ],
   'productFullSize': [
@@ -1833,9 +1866,60 @@ export const ContentData = {
     {
       'index': 33,
       'picture': productImage34,
-      'path': '/product-photography/34',
+      'path': '/Nature/34',
       'pathId': '34'
     },
+    {
+      'index': 34,
+      'picture': productImage35,
+      'path': '/Nature/35',
+      'pathId': '34'
+    },
+    {
+      'index': 35,
+      'picture': productImage36,
+      'path': '/Nature/36',
+      'pathId': '36'
+    },
+    {
+      'index': 36,
+      'picture': productImage37,
+      'path': '/Nature/37',
+      'pathId': '37'
+    },
+    {
+      'index': 37,
+      'picture': productImage38,
+      'path': '/Nature/38',
+      'pathId': '38'
+    },
+    {
+      'index': 39,
+      'picture': productImage39,
+      'path': '/Nature/39',
+      'pathId': '39'
+    },
+    {
+      'index': 40,
+      'picture': productImage40,
+      'path': '/Nature/40',
+      'pathId': '40'
+    },
+    {
+      'index': 41,
+      'picture': productImage41,
+      'path': '/Nature/41',
+      'pathId': '41'
+    },
+    {
+      'index': 42,
+      'picture': productImage42,
+      'path': '/Nature/42',
+      'pathId': '42'
+    }
+
+
+
     
 
 
@@ -2115,114 +2199,109 @@ export const ContentData = {
       'path': '/portraits/45'
     },
 
-
-
-
-
   ],
   'modelsFullSize': [
     {
-      'index': 58,
-      'picture': modelsImage59,
-      'description':'59',
-      'path': '/models-tests/59',
-
-      //'pathId': '01'
+      'index': 0,
+      'picture': modelsImage1,
+      'description':'1',
+      'path': '/Child_Photography/1',
+      'pathId': '01'
     },
     {
       'index': 1,
       'picture': modelsImage2,
-      'path': '/models-tests/2',
+      'path': '/Child_Photography/2',
       'pathId': '02'
     },
     {
       'index': 2,
       'picture': modelsImage3,
-      'path': '/models-tests/3',
+      'path': '/Child_Photography/3',
       'pathId': '03'
     },
     {
       'index': 3,
       'picture': modelsImage4,
-      'path': '/models-tests/4',
+      'path': '/Child_Photography/4',
       'pathId': '04'
     },
     {
       'index': 4,
       'picture': modelsImage5,
-      'path': '/models-tests/5',
+      'path': '/Child_Photography/5',
       'pathId': '05'
     },
     {
       'index': 5,
       'picture': modelsImage6,
-      'path': '/models-tests/6',
+      'path': '/Child_Photography/6',
       'pathId': '06'
     },
     {
       'index': 6,
       'picture': modelsImage7,
-      'path': '/models-tests/7',
+      'path': '/Child_Photography/7',
       'pathId': '07'
     },
     {
       'index': 7,
       'picture': modelsImage8,
-      'path': '/models-tests/8',
+      'path': '/Child_Photography/8',
       'pathId': '08'
     },
     {
       'index': 8,
       'picture': modelsImage9,
-      'path': '/models-tests/9',
+      'path': '/Child_Photography/9',
       'pathId': '09'
     },
     {
       'index': 9,
       'picture': modelsImage10,
-      'path': '/models-tests/10',
+      'path': '/Child_Photography/10',
       'pathId': '10'
     },
     {
       'index': 10,
       'picture': modelsImage11,
-      'path': '/models-tests/11',
+      'path': '/Child_Photography/11',
       'pathId': '11'
     },
     {
       'index': 11,
       'picture': modelsImage12,
-      'path': '/models-tests/12',
+      'path': '/Child_Photography/12',
       'pathId': '12'
     },
     {
       'index': 12,
       'picture': modelsImage13,
-      'path': '/models-tests/13',
+      'path': '/Child_Photography/13',
       'pathId': '13'
     },
     {
       'index': 13,
       'picture': modelsImage14,
-      'path': '/models-tests/14',
+      'path': '/Child_Photography/14',
       'pathId': '14'
     },
     {
       'index': 14,
       'picture': modelsImage15,
-      'path': '/models-tests/15',
+      'path': '/Child_Photography/15',
       'pathId': '15'
     },
     {
       'index': 15,
       'picture': modelsImage16,
-      'path': '/models-tests/16',
+      'path': '/Child_Photography/16',
       'pathId': '16'
     },
     {
       'index': 16,
       'picture': modelsImage17,
-      'path': '/models-tests/17',
+      'path': '/Child_Photography/17',
       'pathId': '17'
     },
     {

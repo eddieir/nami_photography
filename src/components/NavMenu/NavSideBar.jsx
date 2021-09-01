@@ -109,7 +109,7 @@ class NavSideBar extends Component {
               <ListItems><Link to='/Conceptual_Art' onClick={this.toggleMenuClass}>Conceptual Art</Link></ListItems>
               <ListItems><Link to='/Nature' onClick={this.toggleMenuClass}>Nature</Link></ListItems>
               <ListItems><Link to='/portraits' onClick={this.toggleMenuClass}>Portrait</Link></ListItems>
-              <ListItems><Link to='/Child Photography' onClick={this.toggleMenuClass}>Child Photography</Link></ListItems>
+              <ListItems><Link to='/Child_Photography' onClick={this.toggleMenuClass}>Child Photography</Link></ListItems>
             </List>
           </div>
 
