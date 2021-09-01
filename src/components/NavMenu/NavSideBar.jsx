@@ -106,10 +106,10 @@ class NavSideBar extends Component {
                   : `${s.leftMenuSection_closed}`}
           >
             <List>
-              <ListItems><Link to='/beauty' onClick={this.toggleMenuClass}>Conceptual Art</Link></ListItems>
-              <ListItems><Link to='/product-photography' onClick={this.toggleMenuClass}>Nature</Link></ListItems>
+              <ListItems><Link to='/Conceptual_Art' onClick={this.toggleMenuClass}>Conceptual Art</Link></ListItems>
+              <ListItems><Link to='/Nature' onClick={this.toggleMenuClass}>Nature</Link></ListItems>
               <ListItems><Link to='/portraits' onClick={this.toggleMenuClass}>Portrait</Link></ListItems>
-              <ListItems><Link to='/models-tests' onClick={this.toggleMenuClass}>Child Photography</Link></ListItems>
+              <ListItems><Link to='/Child Photography' onClick={this.toggleMenuClass}>Child Photography</Link></ListItems>
             </List>
           </div>
 
