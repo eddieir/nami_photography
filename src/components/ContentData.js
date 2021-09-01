@@ -190,6 +190,8 @@ import beautyImage5 from "../img/fullsize/beauty/image_5.jpg";
 import beautyImage6 from "../img/fullsize/beauty/image_6.jpg";
 import beautyImage7 from "../img/fullsize/beauty/image_7.jpg";
 import beautyImage8 from "../img/fullsize/beauty/image_8.jpg";
+import beautyImage9 from "../img/fullsize/beauty/image_9.jpg";
+
 
 import productImage1 from "../img/fullsize/product/image_1.jpg";
 import productImage2 from "../img/fullsize/product/image_2.jpg";
@@ -224,6 +226,7 @@ import productImage30 from "../img/fullsize/product/image_30.jpg";
 import productImage31 from "../img/fullsize/product/image_31.jpg";
 import productImage32 from "../img/fullsize/product/image_32.jpg";
 import productImage33 from "../img/fullsize/product/image_33.jpg";
+import productImage34 from "../img/fullsize/product/image_34.jpg";
 
 import portraitImage1 from "../img/fullsize/portrait/image_1.jpg";
 /*import portraitImage2 from "../img/fullsize/portrait/image_2.jpg";
@@ -329,7 +332,7 @@ import modelsImage55 from "../img/fullsize/models/image_55.jpg";
 import modelsImage56 from "../img/fullsize/models/image_56.jpg";
 import modelsImage57 from "../img/fullsize/models/image_57.jpg";
 import modelsImage58 from "../img/fullsize/models/image_58.jpg";
-
+//import ChildImage1 from '../img/fullsize/models/child1.jpg';
 
 export const ContentData = {
 // crop size for main page
@@ -417,7 +420,7 @@ export const ContentData = {
       'index': 0,
       'picture': image2_34,
       'description': '1',
-      'path': '/product-photography/1'
+      'path': '/product-photography/34'
     },
     {
       'index': 1,
@@ -1619,6 +1622,13 @@ export const ContentData = {
       'path': '/beauty/8',
       'pathId': '8'
     },
+    {
+      'index': 7,
+      'picture': beautyImage8,
+      'path': '/beauty/8',
+      'pathId': '8'
+    },
+
   ],
   'productFullSize': [
     {
@@ -1818,6 +1828,12 @@ export const ContentData = {
       'picture': productImage33,
       'path': '/product-photography/33',
       'pathId': '33'
+    },
+    {
+      'index': 33,
+      'picture': productImage34,
+      'path': '/product-photography/34',
+      'pathId': '34'
     },
 
   ],
