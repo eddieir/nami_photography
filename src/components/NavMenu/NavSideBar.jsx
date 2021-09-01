@@ -6,8 +6,8 @@ import s from './NavSideBar.module.css';
 
 import instagram from "../../img/icons/instagram.svg";
 import telegram from "../../img/icons/telegram.svg";
-import facebook from "../../img/icons/facebook.svg";
-import github from '../../img/icons/github.svg'
+//import facebook from "../../img/icons/facebook.svg";
+//import github from '../../img/icons/github.svg'
 
 
 class NavSideBar extends Component {
