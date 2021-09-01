@@ -79,7 +79,7 @@ const ImagesFlow = props => {
       const Text = styled.div`
           ${props.hoverNone ? `display: none;` : null};
         `;
-      const Separator = styled.div`
+      /*const Separator = styled.div`
           width: 30px;
           height: 1px;
           margin: 10px 0;
@@ -89,6 +89,7 @@ const ImagesFlow = props => {
             display: none;
           }
         `;
+      */  
 
       return (
         <Link className={s.overlay} to={images[id].path} >
