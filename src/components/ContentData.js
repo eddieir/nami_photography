@@ -190,7 +190,7 @@ import beautyImage5 from "../img/fullsize/beauty/image_5.jpg";
 import beautyImage6 from "../img/fullsize/beauty/image_6.jpg";
 import beautyImage7 from "../img/fullsize/beauty/image_7.jpg";
 import beautyImage8 from "../img/fullsize/beauty/image_8.jpg";
-//import beautyImage9 from "../img/fullsize/beauty/image_9.jpg";
+import beautyImage9 from "../img/fullsize/beauty/image_9.jpg";
 
 
 import productImage1 from "../img/fullsize/product/image_1.jpg";
@@ -274,7 +274,7 @@ import portraitImage43 from "../img/fullsize/portrait/image_43.jpg";
 import portraitImage44 from "../img/fullsize/portrait/image_44.jpg";
 import portraitImage45 from "../img/fullsize/portrait/image_45.jpg";
 
-import modelsImage1 from "../img/fullsize/models/image_1.jpg";
+//import modelsImage1 from "../img/fullsize/models/image_1.jpg";
 import modelsImage2 from "../img/fullsize/models/image_2.jpg";
 import modelsImage3 from "../img/fullsize/models/image_3.jpg";
 import modelsImage4 from "../img/fullsize/models/image_4.jpg";
@@ -332,6 +332,7 @@ import modelsImage55 from "../img/fullsize/models/image_55.jpg";
 import modelsImage56 from "../img/fullsize/models/image_56.jpg";
 import modelsImage57 from "../img/fullsize/models/image_57.jpg";
 import modelsImage58 from "../img/fullsize/models/image_58.jpg";
+import modelsImage59 from "../img/fullsize/models/image_59.jpg";
 //import ChildImage1 from '../img/fullsize/models/child1.jpg';
 
 export const ContentData = {
@@ -546,7 +547,7 @@ export const ContentData = {
       'index': 0,
       'picture': image4_1,
       'description': '1',
-      'path': '/models-tests/1'
+      'path': '/models-tests/59'
     },
     {
       'index': 1,
@@ -1220,7 +1221,7 @@ export const ContentData = {
       'index': 0,
       'picture': image4_1,
       'description': '01',
-      'path': '/models-tests/1'
+      'path': '/models-tests/59'
     },
     {
       'index': 1,
@@ -1623,9 +1624,9 @@ export const ContentData = {
       'pathId': '8'
     },
     {
-      'index': 7,
-      'picture': beautyImage8,
-      'path': '/beauty/8',
+      'index': 8,
+      'picture': beautyImage9,
+      'path': '/beauty/9',
       'pathId': '8'
     },
 
@@ -1835,6 +1836,8 @@ export const ContentData = {
       'path': '/product-photography/34',
       'pathId': '34'
     },
+    
+
 
   ],
   'portraitFullSize': [
@@ -2119,10 +2122,12 @@ export const ContentData = {
   ],
   'modelsFullSize': [
     {
-      'index': 0,
-      'picture': modelsImage1,
-      'path': '/models-tests/1',
-      'pathId': '01'
+      'index': 58,
+      'picture': modelsImage59,
+      'description':'59',
+      'path': '/models-tests/59',
+
+      //'pathId': '01'
     },
     {
       'index': 1,
@@ -2466,11 +2471,11 @@ export const ContentData = {
       'path': '/models-tests/58',
       'pathId': '58'
     },
-    // {
-    //   'index': 58,
-    //   'picture': modelsImage59,
-    //   'path': '/models-tests/59',
-    //   'pathId': '59'
-    // }
+    {
+       'index': 58,
+       'picture': modelsImage59,
+       'path': '/models-tests/59',
+       'pathId': '59'
+     }
   ]
 };
