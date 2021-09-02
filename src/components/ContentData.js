@@ -196,7 +196,7 @@ import beautyImage13 from "../img/fullsize/beauty/image_13.jpg";
 import beautyImage14 from "../img/fullsize/beauty/image_14.jpg";
 import beautyImage15 from "../img/fullsize/beauty/image_15.jpg";
 
-import productImage1 from "../img/fullsize/product/image_1.jpg";
+/*import productImage1 from "../img/fullsize/product/image_1.jpg";
 import productImage2 from "../img/fullsize/product/image_2.jpg";
 import productImage3 from "../img/fullsize/product/image_3.jpg";
 import productImage4 from "../img/fullsize/product/image_4.jpg";
@@ -228,7 +228,7 @@ import productImage29 from "../img/fullsize/product/image_29.jpg";
 import productImage30 from "../img/fullsize/product/image_30.jpg";
 import productImage31 from "../img/fullsize/product/image_31.jpg";
 import productImage32 from "../img/fullsize/product/image_32.jpg";
-import productImage33 from "../img/fullsize/product/image_33.jpg";
+import productImage33 from "../img/fullsize/product/image_33.jpg";*/
 import productImage34 from "../img/fullsize/product/image_34.jpg";
 import productImage35 from "../img/fullsize/product/image_35.jpg";
 import productImage36 from "../img/fullsize/product/image_36.jpg";
@@ -355,76 +355,76 @@ export const ContentData = {
       'index': 0,
       'picture': image1,
       'description': '1',
-      'path': '/beauty/1'
+      'path': '/Conceptual_Art/1'
     },
     {
       'index': 1,
       'picture': image2,
       'description': '2',
-      'path': '/beauty/2'
+      'path': '/Conceptual_Art/2'
     },
     {
       'index': 2,
       'picture': image3,
       'description': '3',
-      'path': '/beauty/3'
+      'path': '/Conceptual_Art/3'
     },
     {
       'index': 3,
       'picture': image4,
       'description': '4',
-      'path': '/beauty/4'
+      'path': '/Conceptual_Art/4'
     },
     {
       'index': 4,
       'picture': image5,
       'description': '5',
-      'path': '/beauty/5'
+      'path': '/Conceptual_Art/5'
     },
     {
       'index': 5,
       'picture': image6,
       'description': '6',
-      'path': '/beauty/6'
+      'path': '/Conceptual_Art/6'
     },
     {
       'index': 6,
       'picture': image7,
       'description': '7',
-      'path': '/beauty/7'
+      'path': '/Conceptual_Art/7'
     },
     
     {
       'index': 7,
       'picture': image9,
       'description': '8',
-      'path': '/beauty/8'
+      'path': '/Conceptual_Art/8'
     },
     
     {
       'index': 11,
       'picture': image12,
       'description': '12',
-      'path': '/beauty/12'
+      'path': '/Conceptual_Art/12'
     },
     {
       'index': 12,
       'picture': image13,
       'description': '13',
-      'path': '/beauty/13'
+      'path': '/Conceptual_Art/13'
     },
     {
       'index': 13,
       'picture': image14,
       'description': '14',
-      'path': '/beauty/14'
+      'path': '/Conceptual_Art/14'
     },
     
     {
       'index': 18,
       'picture': image18,
       'description': '18',
-      'path': '/beauty/18'
+      'path': '/Conceptual_Art/18'
     },
 
     
@@ -434,61 +434,61 @@ export const ContentData = {
       'index': 0,
       'picture': image2_34,
       'description': '1',
-      'path': '/product-photography/34'
+      'path': '/Nature/34'
     },
     {
       'index': 1,
       'picture': image2_35,
       'description': '2',
-      'path': '/product-photography/2'
+      'path': '/Nature/2'
     },
     {
       'index': 2,
       'picture': image2_35,
       'description': '3',
-      'path': '/product-photography/3'
+      'path': '/Nature/3'
     },
     {
       'index': 3,
       'picture': image2_36,
       'description': '4',
-      'path': '/product-photography/4'
+      'path': '/Nature/4'
     },
     {
       'index': 4,
       'picture': image2_37,
       'description': '5',
-      'path': '/product-photography/5'
+      'path': '/Nature/5'
     },
     {
       'index': 5,
       'picture': image2_38,
       'description': '6',
-      'path': '/product-photography/6'
+      'path': '/Nature/6'
     },
     {
       'index': 6,
       'picture': image2_39,
       'description': '7',
-      'path': '/product-photography/7'
+      'path': '/Nature/7'
     },
     {
       'index': 7,
       'picture': image2_40,
       'description': '8',
-      'path': '/product-photography/8'
+      'path': '/Nature/8'
     },
     {
       'index': 8,
       'picture': image2_41,
       'description': '9',
-      'path': '/product-photography/9'
+      'path': '/Nature/9'
     },
     {
       'index': 9,
       'picture': image2_42,
       'description': '10',
-      'path': '/product-photography/10'
+      'path': '/Nature/10'
     }
    
   ],
@@ -1665,16 +1665,17 @@ export const ContentData = {
 
   ],
   'productFullSize': [
+    /*
     {
       'index': 0,
       'picture': productImage1,
-      'path': '/product-photography/1',
+      'path': '/Nature/1',
       'pathId': '1'
     },
     {
       'index': 1,
       'picture': productImage2,
-      'path': '/product-photography/2',
+      'path': '/Nature/2',
       'pathId': '2'
     },
     {
@@ -1863,6 +1864,7 @@ export const ContentData = {
       'path': '/product-photography/33',
       'pathId': '33'
     },
+    */
     {
       'index': 33,
       'picture': productImage34,
