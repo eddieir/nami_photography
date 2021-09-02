@@ -302,7 +302,7 @@ import modelsImage14 from "../img/fullsize/models/image_14.jpg";
 import modelsImage15 from "../img/fullsize/models/image_15.jpg";
 import modelsImage16 from "../img/fullsize/models/image_16.jpg";
 import modelsImage17 from "../img/fullsize/models/image_17.jpg";
-import modelsImage18 from "../img/fullsize/models/image_18.jpg";
+/*import modelsImage18 from "../img/fullsize/models/image_18.jpg";
 import modelsImage19 from "../img/fullsize/models/image_19.jpg";
 import modelsImage20 from "../img/fullsize/models/image_20.jpg";
 import modelsImage21 from "../img/fullsize/models/image_21.jpg";
@@ -343,7 +343,7 @@ import modelsImage55 from "../img/fullsize/models/image_55.jpg";
 import modelsImage56 from "../img/fullsize/models/image_56.jpg";
 import modelsImage57 from "../img/fullsize/models/image_57.jpg";
 import modelsImage58 from "../img/fullsize/models/image_58.jpg";
-import modelsImage59 from "../img/fullsize/models/image_59.jpg";
+import modelsImage59 from "../img/fullsize/models/image_59.jpg";*/
 //import ChildImage1 from '../img/fullsize/models/child1.jpg';
 //import Image12 from "../img/fullsize/beauty/image_12.jpg";
 
@@ -2206,7 +2206,7 @@ export const ContentData = {
       'picture': modelsImage1,
       'description':'1',
       'path': '/Child_Photography/1',
-      'pathId': '01'
+      //'pathId': '01'
     },
     {
       'index': 1,
@@ -2304,6 +2304,7 @@ export const ContentData = {
       'path': '/Child_Photography/17',
       'pathId': '17'
     },
+    /*
     {
       'index': 17,
       'picture': modelsImage18,
@@ -2555,6 +2556,6 @@ export const ContentData = {
        'picture': modelsImage59,
        'path': '/models-tests/59',
        'pathId': '59'
-     }
+     }*/
   ]
 };
