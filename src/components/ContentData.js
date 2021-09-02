@@ -560,61 +560,61 @@ export const ContentData = {
       'index': 0,
       'picture': image4_1,
       'description': '1',
-      'path': '/Child_Photography/1'
+      'path': '/Child Photography/1'
     },
     {
       'index': 1,
       'picture': image4_2,
       'description': '2',
-      'path': '/Child_Photography/2'
+      'path': '/Child Photography/2'
     },
     {
       'index': 2,
       'picture': image4_3,
       'description': '3',
-      'path': '/Child_Photography/3'
+      'path': '/Child Photography/3'
     },
     {
       'index': 3,
       'picture': image4_4,
       'description': '4',
-      'path': '/Child_Photography/4'
+      'path': '/Child Photography/4'
     },
     {
       'index': 4,
       'picture': image4_5,
       'description': '5',
-      'path': '/Child_Photography/5'
+      'path': '/Child Photography/5'
     },
     {
       'index': 5,
       'picture': image4_6,
       'description': '6',
-      'path': '/Child_Photography/6'
+      'path': '/Child Photography/6'
     },
     {
       'index': 6,
       'picture': image4_7,
       'description': '7',
-      'path': '/Child_Photography/7'
+      'path': '/Child Photography/7'
     },
     {
       'index': 7,
       'picture': image4_8,
       'description': '8',
-      'path': '/Child_Photography/8'
+      'path': '/Child Photography/8'
     },
     {
       'index': 8,
       'picture': image4_9,
       'description': '9',
-      'path': '/Child_Photography/9'
+      'path': '/Child Photography/9'
     },
     {
       'index': 9,
       'picture': image4_10,
       'description': '10',
-      'path': '/Child_Photography/10'
+      'path': '/Child Photography/10'
     }
   ],
 
@@ -1234,103 +1234,103 @@ export const ContentData = {
       'index': 0,
       'picture': image4_1,
       'description': '01',
-      'path': '/Child_Photography/1'
+      'path': '/Child Photography/1'
     },
     {
       'index': 1,
       'picture': image4_2,
       'description': '02',
-      'path': '/Child_Photography/2'
+      'path': '/Child Photography/2'
     },
     {
       'index': 2,
       'picture': image4_3,
       'description': '03',
-      'path': '/Child_Photography/3'
+      'path': '/Child Photography/3'
     },
     {
       'index': 3,
       'picture': image4_4,
       'description': '04',
-      'path': '/Child_Photography/4'
+      'path': '/Child Photography/4'
     },
     {
       'index': 4,
       'picture': image4_5,
       'description': '05',
-      'path': '/Child_Photography/5'
+      'path': '/Child Photography/5'
     },
     {
       'index': 5,
       'picture': image4_6,
       'description': '06',
-      'path': '/Child_Photography/6'
+      'path': '/Child Photography/6'
     },
     {
       'index': 6,
       'picture': image4_7,
       'description': '07',
-      'path': '/Child_Photography/7'
+      'path': '/Child Photography/7'
     },
     {
       'index': 7,
       'picture': image4_8,
       'description': '08',
-      'path': '/Child_Photography/8'
+      'path': '/Child Photography/8'
     },
     {
       'index': 8,
       'picture': image4_9,
       'description': '09',
-      'path': '/Child_Photography/9'
+      'path': '/Child Photography/9'
     },
     {
       'index': 9,
       'picture': image4_10,
       'description': '10',
-      'path': '/Child_Photography/10'
+      'path': '/Child Photography/10'
     },
     {
       'index': 10,
       'picture': image4_11,
       'description': '11',
-      'path': '/Child_Photography/11'
+      'path': '/Child Photography/11'
     },
     {
       'index': 11,
       'picture': image4_12,
       'description': '12',
-      'path': '/Child_Photography/12'
+      'path': '/Child Photography/12'
     },
     {
       'index': 12,
       'picture': image4_13,
       'description': '13',
-      'path': '/Child_Photography/13'
+      'path': '/Child Photography/13'
     },
     {
       'index': 13,
       'picture': image4_14,
       'description': '14',
-      'path': '/Child_Photography/14'
+      'path': '/Child Photography/14'
     },
     {
       'index': 14,
       'picture': image4_15,
       'description': '15',
-      'path': '/Child_Photography/15'
+      'path': '/Child Photography/15'
     },
     {
       'index': 15,
       'picture': image4_16,
       'description': '16',
-      'path': '/Child_Photography/16'
+      'path': '/Child Photography/16'
     },
     {
       'index': 16,
       'picture': image4_17,
       'description': '17',
-      'path': '/Child_Photography/17'
+      'path': '/Child Photography/17'
     },
     /*{
       'index': 17,
@@ -2205,103 +2205,103 @@ export const ContentData = {
       'index': 0,
       'picture': modelsImage1,
       'description':'1',
-      'path': '/Child_Photography/1',
+      'path': '/Child Photography/1',
       //'pathId': '01'
     },
     {
       'index': 1,
       'picture': modelsImage2,
-      'path': '/Child_Photography/2',
+      'path': '/Child Photography/2',
       'pathId': '02'
     },
     {
       'index': 2,
       'picture': modelsImage3,
-      'path': '/Child_Photography/3',
+      'path': '/Child Photography/3',
       'pathId': '03'
     },
     {
       'index': 3,
       'picture': modelsImage4,
-      'path': '/Child_Photography/4',
+      'path': '/Child Photography/4',
       'pathId': '04'
     },
     {
       'index': 4,
       'picture': modelsImage5,
-      'path': '/Child_Photography/5',
+      'path': '/Child Photography/5',
       'pathId': '05'
     },
     {
       'index': 5,
       'picture': modelsImage6,
-      'path': '/Child_Photography/6',
+      'path': '/Child Photography/6',
       'pathId': '06'
     },
     {
       'index': 6,
       'picture': modelsImage7,
-      'path': '/Child_Photography/7',
+      'path': '/Child Photography/7',
       'pathId': '07'
     },
     {
       'index': 7,
       'picture': modelsImage8,
-      'path': '/Child_Photography/8',
+      'path': '/Child Photography/8',
       'pathId': '08'
     },
     {
       'index': 8,
       'picture': modelsImage9,
-      'path': '/Child_Photography/9',
+      'path': '/Child Photography/9',
       'pathId': '09'
     },
     {
       'index': 9,
       'picture': modelsImage10,
-      'path': '/Child_Photography/10',
+      'path': '/Child Photography/10',
       'pathId': '10'
     },
     {
       'index': 10,
       'picture': modelsImage11,
-      'path': '/Child_Photography/11',
+      'path': '/Child Photography/11',
       'pathId': '11'
     },
     {
       'index': 11,
       'picture': modelsImage12,
-      'path': '/Child_Photography/12',
+      'path': '/Child Photography/12',
       'pathId': '12'
     },
     {
       'index': 12,
       'picture': modelsImage13,
-      'path': '/Child_Photography/13',
+      'path': '/Child Photography/13',
       'pathId': '13'
     },
     {
       'index': 13,
       'picture': modelsImage14,
-      'path': '/Child_Photography/14',
+      'path': '/Child Photography/14',
       'pathId': '14'
     },
     {
       'index': 14,
       'picture': modelsImage15,
-      'path': '/Child_Photography/15',
+      'path': '/Child Photography/15',
       'pathId': '15'
     },
     {
       'index': 15,
       'picture': modelsImage16,
-      'path': '/Child_Photography/16',
+      'path': '/Child Photography/16',
       'pathId': '16'
     },
     {
       'index': 16,
       'picture': modelsImage17,
-      'path': '/Child_Photography/17',
+      'path': '/Child Photography/17',
       'pathId': '17'
     },
     /*
