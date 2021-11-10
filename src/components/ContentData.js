@@ -1901,23 +1901,29 @@ export const ContentData = {
       'path': '/Nature/39',
       'pathId': '39'
     },*/
-    {
+    /*{
       'index': 39,
       'picture': productImage40,
       'path': '/Nature/39',
       'pathId': '39'
-    },
+    },*/
     {
       'index': 40,
-      'picture': productImage41,
+      'picture': productImage40,
       'path': '/Nature/40',
       'pathId': '40'
     },
     {
       'index': 41,
-      'picture': productImage42,
+      'picture': productImage41,
       'path': '/Nature/41',
       'pathId': '41'
+    },
+    {
+      'index': 42,
+      'picture': productImage42,
+      'path': '/Nature/42',
+      'pathId': '42'
     }
 
 
