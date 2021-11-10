@@ -466,12 +466,12 @@ export const ContentData = {
       'description': '6',
       'path': '/Nature/6'
     },
-    {
+    /*{
       'index': 6,
       'picture': image2_39,
       'description': '7',
       'path': '/Nature/7'
-    },
+    },*/
     {
       'index': 7,
       'picture': image2_40,
@@ -493,12 +493,12 @@ export const ContentData = {
    
   ],
   'portraitsForMainPage': [
-    {
+    /*{
       'index': 0,
       'picture': image_30,
       'description': '1',
       'path': '/portraits/30'
-    },
+    },*/
     {
       'index': 1,
       'picture': image_31,
@@ -925,12 +925,12 @@ export const ContentData = {
       'description': '38',
       'path': '/product-photography/38'
     },
-    {
+    /*{
       'index': 38,
       'picture': image2_39,
       'description': '39',
       'path': '/product-photography/39'
-    },
+    },*/
     {
       'index': 39,
       'picture': image2_40,
@@ -1128,12 +1128,12 @@ export const ContentData = {
       'description': '29',
       'path': '/portraits/29'
     },*/
-    {
+    /*{
       'index': 29,
       'picture': image_30,
       'description': '30',
       'path': '/portraits/30'
-    },
+    },*/
     {
       'index': 30,
       'picture': image_31,
@@ -1220,12 +1220,12 @@ export const ContentData = {
       'description':'44',
       'path':'/portraits/44'
     },
-    {
+    /*{
       'index': 45,
       'picture':image_45,
       'description':'45',
       'path':'/portraits/45'
-    }
+    }*/
 
 
   ],
@@ -2103,12 +2103,12 @@ export const ContentData = {
       'path': '/portraits/29'
     },
     */
-    {
+    /*{
       'index': 29,
       'picture': portraitImage30,
       'description': '30',
       'path': '/portraits/30'
-    },
+    },*/
     
     {
       'index': 30,
@@ -2194,12 +2194,12 @@ export const ContentData = {
       'description': '44',
       'path': '/portraits/44'
     },
-    {
+    /*{
       'index': 44,
       'picture': portraitImage45,
       'description': '45',
       'path': '/portraits/45'
-    },
+    },*/
 
   ],
   'modelsFullSize': [
