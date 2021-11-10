@@ -234,7 +234,7 @@ import productImage35 from "../img/fullsize/product/image_35.jpg";
 import productImage36 from "../img/fullsize/product/image_36.jpg";
 import productImage37 from "../img/fullsize/product/image_37.jpg";
 import productImage38 from "../img/fullsize/product/image_38.jpg";
-import productImage39 from "../img/fullsize/product/image_39.jpg";
+//import productImage39 from "../img/fullsize/product/image_39.jpg";
 import productImage40 from "../img/fullsize/product/image_40.jpg";
 import productImage41 from "../img/fullsize/product/image_41.jpg";
 import productImage42 from "../img/fullsize/product/image_42.jpg";
