@@ -917,13 +917,13 @@ export const ContentData = {
       'index': 36,
       'picture': image2_37,
       'description': '37',
-      'path': '/product-photography/37'
+      'path': '/Nature/37'
     },
     {
       'index': 37,
       'picture': image2_38,
       'description': '38',
-      'path': '/product-photography/38'
+      'path': '/Nature/38'
     },
     /*{
       'index': 38,
@@ -935,19 +935,19 @@ export const ContentData = {
       'index': 39,
       'picture': image2_40,
       'description': '40',
-      'path': '/product-photography/40'
+      'path': '/Nature/40'
     },
     {
       'index': 40,
       'picture': image2_41,
       'description': '41',
-      'path': '/product-photography/41'
+      'path': '/Nature/41'
     },
     {
       'index': 41,
       'picture': image2_42,
       'description': '42',
-      'path': '/product-photography/42'
+      'path': '/Nature/42'
     }
 
 
@@ -1895,29 +1895,29 @@ export const ContentData = {
       'path': '/Nature/38',
       'pathId': '38'
     },
-    {
+    /*{
       'index': 39,
       'picture': productImage39,
+      'path': '/Nature/39',
+      'pathId': '39'
+    },*/
+    {
+      'index': 39,
+      'picture': productImage40,
       'path': '/Nature/39',
       'pathId': '39'
     },
     {
       'index': 40,
-      'picture': productImage40,
+      'picture': productImage41,
       'path': '/Nature/40',
       'pathId': '40'
     },
     {
       'index': 41,
-      'picture': productImage41,
+      'picture': productImage42,
       'path': '/Nature/41',
       'pathId': '41'
-    },
-    {
-      'index': 42,
-      'picture': productImage42,
-      'path': '/Nature/42',
-      'pathId': '42'
     }
 
 
