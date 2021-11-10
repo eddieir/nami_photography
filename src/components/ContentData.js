@@ -440,31 +440,31 @@ export const ContentData = {
       'index': 1,
       'picture': image2_35,
       'description': '2',
-      'path': '/Nature/2'
+      'path': '/Nature/35'
     },
     {
       'index': 2,
-      'picture': image2_35,
+      'picture': image2_36,
       'description': '3',
-      'path': '/Nature/3'
+      'path': '/Nature/36'
     },
     {
       'index': 3,
-      'picture': image2_36,
+      'picture': image2_37,
       'description': '4',
-      'path': '/Nature/4'
+      'path': '/Nature/37'
     },
     {
       'index': 4,
-      'picture': image2_37,
+      'picture': image2_38,
       'description': '5',
-      'path': '/Nature/5'
+      'path': '/Nature/38'
     },
     {
       'index': 5,
-      'picture': image2_38,
+      'picture': image2_40,
       'description': '6',
-      'path': '/Nature/6'
+      'path': '/Nature/40'
     },
     /*{
       'index': 6,
@@ -474,22 +474,22 @@ export const ContentData = {
     },*/
     {
       'index': 7,
-      'picture': image2_40,
-      'description': '8',
-      'path': '/Nature/8'
+      'picture': image2_41,
+      'description': '7',
+      'path': '/Nature/41'
     },
     {
       'index': 8,
-      'picture': image2_41,
-      'description': '9',
-      'path': '/Nature/9'
-    },
-    {
-      'index': 9,
       'picture': image2_42,
+      'description': '9',
+      'path': '/Nature/42'
+    },
+    /*{
+      'index': 9,
+      'picture': image2_4,
       'description': '10',
       'path': '/Nature/10'
-    }
+    }*/
    
   ],
   'portraitsForMainPage': [
