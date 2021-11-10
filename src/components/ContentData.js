@@ -69,7 +69,7 @@ import image2_35 from "../img/thumbnails/product/image_35.jpg";
 import image2_36 from "../img/thumbnails/product/image_36.jpg";
 import image2_37 from "../img/thumbnails/product/image_37.jpg";
 import image2_38 from "../img/thumbnails/product/image_38.jpg";
-import image2_39 from "../img/thumbnails/product/image_39.jpg";
+//import image2_39 from "../img/thumbnails/product/image_39.jpg";
 import image2_40 from "../img/thumbnails/product/image_40.jpg";
 import image2_41 from "../img/thumbnails/product/image_41.jpg";
 import image2_42 from "../img/thumbnails/product/image_42.jpg";
@@ -103,7 +103,7 @@ import image3_26 from "../img/thumbnails/portrait/image_26.jpg";
 import image3_27 from "../img/thumbnails/portrait/image_27.jpg";
 import image3_28 from "../img/thumbnails/portrait/image_28.jpg";
 import image3_29 from "../img/thumbnails/portrait/image_29.jpg";*/
-import image_30 from '../img/thumbnails/portrait/image_30.jpg';
+//import image_30 from '../img/thumbnails/portrait/image_30.jpg';
 import image_31 from '../img/thumbnails/portrait/image_31.jpg';
 import image_32 from '../img/thumbnails/portrait/image_32.jpg';
 import image_33 from '../img/thumbnails/portrait/image_33.jpg';
@@ -118,7 +118,7 @@ import image_41 from '../img/thumbnails/portrait/image_41.jpg';
 import image_42 from '../img/thumbnails/portrait/image_42.jpg';
 import image_43 from '../img/thumbnails/portrait/image_43.jpg';
 import image_44 from '../img/thumbnails/portrait/image_44.jpg';
-import image_45 from '../img/thumbnails/portrait/image_45.jpg';
+//import image_45 from '../img/thumbnails/portrait/image_45.jpg';
 
 ///**** model thumbnails*/
 import image4_1 from "../img/thumbnails/models/image_1.jpg";
@@ -268,7 +268,7 @@ import portraitImage26 from "../img/fullsize/portrait/image_26.jpg";
 import portraitImage27 from "../img/fullsize/portrait/image_27.jpg";
 import portraitImage28 from "../img/fullsize/portrait/image_28.jpg";
 import portraitImage29 from "../img/fullsize/portrait/image_29.jpg";*/
-import portraitImage30 from "../img/fullsize/portrait/image_30.jpg";
+//import portraitImage30 from "../img/fullsize/portrait/image_30.jpg";
 import portraitImage31 from "../img/fullsize/portrait/image_31.jpg";
 import portraitImage32 from "../img/fullsize/portrait/image_32.jpg";
 import portraitImage33 from "../img/fullsize/portrait/image_33.jpg";
@@ -283,7 +283,7 @@ import portraitImage41 from "../img/fullsize/portrait/image_41.jpg";
 import portraitImage42 from "../img/fullsize/portrait/image_42.jpg";
 import portraitImage43 from "../img/fullsize/portrait/image_43.jpg";
 import portraitImage44 from "../img/fullsize/portrait/image_44.jpg";
-import portraitImage45 from "../img/fullsize/portrait/image_45.jpg";
+//import portraitImage45 from "../img/fullsize/portrait/image_45.jpg";
 
 import modelsImage1 from "../img/fullsize/models/image_1.jpg";
 import modelsImage2 from "../img/fullsize/models/image_2.jpg";
